@@ -2,6 +2,8 @@ from datetime import datetime
 
 
 class SimpleReport:
+    def __init__(self):
+        pass
 
     @staticmethod
     def generate(products):
