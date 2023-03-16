@@ -52,6 +52,15 @@ Além disso, o relatório final possuirá duas versões: **simples** e **complet
 </details>
 
 <details>
+  <summary><strong>Docker</strong></summary>
+  Caso queria executar os seus testes de projeto via `Docker-compose`, substituindo o ambiente virtual, execute o comando:
+
+  ```bash
+  docker-compose run --rm inventory pytest
+  ```
+</details>
+
+<details>
   <summary><strong>Executando Projeto</strong></summary><br />
   
   O comando a ser executado será `inventory_report`. Para que ele funcione em seu ambiente é preciso antes instalar o próprio código como um pacote pip:
