@@ -20,7 +20,7 @@ Além disso, o relatório final possuirá duas versões: **simples** e **complet
     <li>Leitura e escrita de arquivos (XML, CSV, JSON).</li>
   </ul>
 
-<strong>Executando o Projeto:</strong>
+# Executando o Projeto
 
 <details>
   <summary><strong>Ambiente Virtual</strong></summary><br />
