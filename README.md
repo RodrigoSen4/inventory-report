@@ -72,9 +72,17 @@ Além disso, o relatório final possuirá duas versões: **simples** e **complet
 
   Exemplo:
 
-  <code>inventory_report inventory_report/data/inventory.csv simples</code>
-  <code>inventory_report inventory_report/data/inventory.json simples</code>
-  <code>inventory_report inventory_report/data/inventory.xml simples</code>
+    ```bash
+  inventory_report inventory_report/data/inventory.csv simples
+  ```
+
+    ```bash
+  inventory_report inventory_report/data/inventory.json simples
+  ```
+
+    ```bash
+  inventory_report inventory_report/data/inventory.xml simples
+  ```
 
   Desta forma você conseguirá interagir gerar o relatório com o comando.
 
