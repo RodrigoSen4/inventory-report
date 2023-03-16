@@ -72,15 +72,15 @@ Além disso, o relatório final possuirá duas versões: **simples** e **complet
 
   Exemplo:
 
-    ```bash
+  ```bash
   inventory_report inventory_report/data/inventory.csv simples
   ```
 
-    ```bash
+  ```bash
   inventory_report inventory_report/data/inventory.json simples
   ```
 
-    ```bash
+  ```bash
   inventory_report inventory_report/data/inventory.xml simples
   ```
 
