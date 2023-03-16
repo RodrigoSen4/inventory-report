@@ -52,7 +52,7 @@ Além disso, o relatório final possuirá duas versões: **simples** e **complet
 </details>
 
 <details>
-  <summary><strong>Executando o Projeto</strong></summary>
+  <summary><strong>Executando Projeto</strong></summary><br />
   
   O comando a ser executado será `inventory_report`. Para que ele funcione em seu ambiente é preciso antes instalar o próprio código como um pacote pip:
 
@@ -73,6 +73,8 @@ Além disso, o relatório final possuirá duas versões: **simples** e **complet
   Exemplo:
 
   <code>inventory_report inventory_report/data/inventory.csv simples</code>
+  <code>inventory_report inventory_report/data/inventory.json simples</code>
+  <code>inventory_report inventory_report/data/inventory.xml simples</code>
 
   Desta forma você conseguirá interagir gerar o relatório com o comando.
 
